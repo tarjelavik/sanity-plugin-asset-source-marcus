@@ -16,7 +16,7 @@
     "@sanity/default-layout": "^2.0.2",
     "@sanity/default-login": "^2.0.1",
     "@sanity/desk-tool": "^2.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "styled-components": "^4.4.1"
   },
   "devDependencies": {
